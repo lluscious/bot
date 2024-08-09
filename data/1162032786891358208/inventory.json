@@ -1,0 +1,24 @@
+{
+    "weapon": {
+        "rarity_5": {},
+        "rarity_4": {},
+        "rarity_3": {}
+    },
+    "precious": {
+        "rarity_5": {
+            "50001": 1911
+        },
+        "rarity_4": {},
+        "rarity_3": {}
+    },
+    "material": {
+        "rarity_5": {},
+        "rarity_4": {},
+        "rarity_3": {}
+    },
+    "usable": {
+        "rarity_5": {},
+        "rarity_4": {},
+        "rarity_3": {}
+    }
+}

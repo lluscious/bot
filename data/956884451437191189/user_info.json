@@ -1,0 +1,18 @@
+{
+    "name": "ly4u",
+    "lv": {
+        "level": 0,
+        "exp": 1
+    },
+    "total_pulls": 0,
+    "rank": "RANK_DEFAULT",
+    "signature": "hi",
+    "color": "#212121",
+    "thumbnail_url": "pfp",
+    "image_url": "",
+    "currency": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+    }
+}

@@ -1,0 +1,10 @@
+item > 5xxxx
+store > 6xxxx
+weapon > 8xxxx
+permission > 9xxxx
+banner > 1xxxx
+feature > 3xxxx
+pool > 2xxxx
+character > 4xxxx
+stat > 1xx
+talent > 2xx

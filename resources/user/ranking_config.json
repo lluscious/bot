@@ -1,0 +1,44 @@
+{
+    "RANK_DEFAULT": {
+        "id": "RANK_DEFAULT",
+        "name": "Slave",
+        "min_level": 0,
+        "max_level": 5
+    },
+    "RANK_1": {
+        "id": "RANK_1",
+        "name": "Peasant",
+        "min_level": 6,
+        "max_level": 10
+    },
+    "RANK_2": {
+        "id": "RANK_2",
+        "name": "Civilian",
+        "min_level": 11,
+        "max_level": 20
+    },
+    "RANK_3": {
+        "id": "RANK_3",
+        "name": "Middle-Class",
+        "min_level": 21,
+        "max_level": 40
+    },
+    "RANK_4": {
+        "id": "RANK_4",
+        "name": "Upper-Class",
+        "min_level": 41,
+        "max_level": 80
+    },
+    "RANK_5": {
+        "id": "RANK_5",
+        "name": "True Communist!",
+        "min_level": 81,
+        "max_level": 99
+    },
+    "RANK_6": {
+        "id": "RANK_6",
+        "name": "Xi Jinping",
+        "min_level": 100,
+        "max_level": 100
+    }
+}

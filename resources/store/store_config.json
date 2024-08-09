@@ -1,0 +1,25 @@
+{
+    "store_default": {
+        "id": 60001,
+        "type": "default",
+        "name": "Store",
+        "desc": "? ? ?",
+        "color": "#7abaff",
+        "image": "",
+        "side_image": "",
+        "items": {
+            "50001": {
+                "cost": 160,
+                "cost_id": 2
+            },
+            "50002": {
+                "cost": 160,
+                "cost_id": 2
+            },
+            "50003": {
+                "cost": 160,
+                "cost_id": 2
+            }
+        }
+    }
+}

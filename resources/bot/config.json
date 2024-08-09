@@ -1,0 +1,11 @@
+{
+    "features": {
+        "auto_response": {
+            "enable": true,
+            "enable_rewards": true
+        },
+        "commands": {
+            "enable": true
+        }
+    }
+}

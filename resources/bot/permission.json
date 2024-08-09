@@ -1,0 +1,15 @@
+{
+    "permission_blacklist": {
+        "id": 90001
+    },
+    "permission_base": {
+        "id": 90002,
+        "notice": "This is the default user permission, It will be in the permission list for everyone"
+    },
+    "permission_test": {
+        "id": 90003
+    },
+    "permission_dev": {
+        "id": 90004
+    }
+}

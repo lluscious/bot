@@ -1,0 +1,61 @@
+{
+    "ar_hi": {
+        "id": "ar_hi",
+        "response_type": "reply",
+        "response": "hi",
+        "trigger": ["hi", "hello"],
+        "reward_list": {}
+    },
+    "ar_test": {
+        "id": "ar_test",
+        "response_type": "reply",
+        "response": "ok",
+        "trigger": ["test"],
+        "reward_list": {
+            "2": 6000
+        }
+    },
+    "ar_libing": {
+        "id": "ar_libing",
+        "response_type": "reply",
+        "response": "LiBing mentioned!! +1 Intertwined Fate!!",
+        "trigger": ["libing", "li bing"],
+        "reward_list": {
+            "50001": 1
+        }
+    },
+    "ar_chenshi": {
+        "id": "ar_chenshi",
+        "response_type": "reply",
+        "response": "ChenShi mentioned!! +1 Intertwined Fate!!",
+        "trigger": ["chenshi", "chen shi"],
+        "reward_list": {
+            "50001": 1
+        }
+    },
+    "ar_furina": {
+        "id": "ar_furina",
+        "response_type": "reply",
+        "response": "Furina mentioned!! +1 Intertwined Fate!!",
+        "trigger": ["furina", "furryna", "fufina"],
+        "reward_list": {
+            "50001": 1
+        }
+    },
+    "ar_dayvid": {
+        "id": "ar_dayvid",
+        "response_type": "reply",
+        "response": "KURWA KARTA GRAFICZNA!!!",
+        "trigger": ["dayvid", "david"],
+        "reward_list": {
+            "5": 20
+        }
+    },
+    "ar_src": {
+        "id": "ar_src",
+        "response_type": "reply",
+        "response": "fie! englut mine own coxcomb thee distemperate daw",
+        "trigger": ["source", "src"],
+        "reward_list": {}
+    }
+}

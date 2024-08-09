@@ -1,0 +1,18 @@
+{
+    "20001": {
+        "id": 20001,
+        "name": "gacha_limited",
+        "rarity_5": {
+            "soft": 73,
+            "max": 90,
+            "buildup_add": 0.01,
+            "add_percent": 8
+        },
+        "rarity_4": {
+            "soft": 5,
+            "max": 10,
+            "buildup_add": 0.5,
+            "add_percent": 30
+        }
+    }
+}

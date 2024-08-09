@@ -1,0 +1,42 @@
+{
+    "cmd_help": {
+        "name": "Help Command",
+        "module_name": "help",
+        "description": "Get some help",
+        "usage": "-help",
+        "triggers": ["help", "h"],
+        "permission": ["permission_base"]
+    },
+    "cmd_profile": {
+        "name": "Profile Command",
+        "module_name": "profile",
+        "description": "View yours or other's profile",
+        "usage": "-profile <view/edit> <@user?edit_property> <?new_value>",
+        "triggers": ["profile"],
+        "permission": ["permission_base"]
+    },
+    "cmd_inventory": {
+        "name": "Inventory Command",
+        "module_name": "inventory",
+        "description": "View yours or other's inventory",
+        "usage": "-inventory <weapon/material/precious> @user",
+        "triggers": ["inventory", "inv"],
+        "permission": ["permission_base"]
+    },
+    "cmd_store": {
+        "name": "Store Command",
+        "module_name": "store",
+        "description": "View the store...  or buy something idk",
+        "usage": "-store <view/buy> <?store_id> <all/item_id> <?amount>\nExample:\n-store view 60001 (Or) -store buy 60001 50001 9",
+        "triggers": ["store"],
+        "permission": ["permission_base"]
+    },
+    "cmd_gacha": {
+        "name": "Gacha Command",
+        "module_name": "gacha",
+        "description": "Gamble!",
+        "usage": "-gacha <view/pull> <gacha_id> <?amount>",
+        "triggers": ["gacha"],
+        "permission": ["permission_dev"]
+    }
+}

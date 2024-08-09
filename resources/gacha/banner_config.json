@@ -1,0 +1,26 @@
+{
+    "10001": {
+        "id": "10001",
+        "name": "Solemn Dignity",
+        "color": "#9e0b0b",
+        "is_release": true,
+        "image_path": "media/gacha/10001/image.png",
+        "icon_path": "media/gacha/10001/icon.png",
+        "cost_item_id": 50001,
+        "type": "GACHA_CHARACTER",
+        "pool_id": "30001",
+        "gacha_id": "20001"
+    },
+    "10002": {
+        "id": "10002",
+        "name": "Invition to the Dali Court",
+        "color": "#dedede",
+        "is_release": true,
+        "image_path": "media/gacha/10002/image.png",
+        "icon_path": "media/gacha/10002/icon.png",
+        "cost_item_id": 50001,
+        "type": "GACHA_CHARACTER",
+        "pool_id": "30002",
+        "gacha_id": "20001"
+    }
+}
